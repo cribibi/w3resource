@@ -1,9 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a275c365-5fc2-49e4-985b-7ce781fc4aaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise148neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise149neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise150neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i/Exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i/Exercise7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i/Exercise9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise14Improve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise17Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise18Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise19Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ii/Exercise20Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iii/Exercise22Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iii/Exercise23Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iiii/Exercise32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iiii/Exercise33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iiii/Exercise34areaofhexagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iiii/Exercise35areaofpolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iiii/Exercise37reversestringneterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iiii/Exercise38Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iiii/Exercise39neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iiii/Exercise40neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise41neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise43neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise45netereminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise46neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise47neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iv/Exercise50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise53neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise58neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v/Exercise60neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vi/Exercise61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vi/Exercise62neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vi/Exercise63neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vii/Exercise71neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vii/Exercise74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vii/Exercise75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vii/Exercise76neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vii/Exercise77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vii/Exercise78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/viii/Exercise83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/Exercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/i/Exercise1.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a26SOrns8NmlLhOQhbsKTceDmS" />
-  <component name="RunManager">
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vii" />
+      <recent name="vi" />
+      <recent name="v" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Exercise71neterminat">
+    <configuration name="Exercise71neterminat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vii.Exercise71neterminat" />
+      <module name="w3resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vii.Exercise74" />
+      <module name="w3resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vii.Exercise75" />
+      <module name="w3resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vii.Exercise77" />
+      <module name="w3resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vii.Exercise78" />
       <module name="w3resource" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -11,8 +177,38 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise1" />
+        <item itemvalue="Application.Exercise71neterminat" />
+        <item itemvalue="Application.Exercise74neterminat" />
+        <item itemvalue="Application.Exercise75neterminat" />
+        <item itemvalue="Application.Exercise77neterminat" />
+        <item itemvalue="Application.Exercise78Neterminat" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a275c365-5fc2-49e4-985b-7ce781fc4aaf" name="Default Changelist" comment="" />
+      <created>1585921340276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585921340276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
