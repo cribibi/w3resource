@@ -2,28 +2,301 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a275c365-5fc2-49e4-985b-7ce781fc4aaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basicparti/x/Exercise107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicparti/x/Exercise108Bianca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicparti/x/Exercise108Florin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicparti/x/Exercise142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise154neterminat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise159neterminat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise165.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise167neterminat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicpartii/Exercise250neterminat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sololearn/PigLatin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variousexercises/HelloWorldJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise37reversestring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise76or.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise77varianta2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise77varianta3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise17Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise20Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise21neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise23Neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise24neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise25neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise26neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise27neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise28neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise29neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise30neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise31neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise62neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise68neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise88neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise89neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise90neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise91neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/viiii/Exercise94n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/viiii/Exercise97n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/viiii/Exercise98n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/viiii/Exercise99n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise100n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise108Bianca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise110n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise19N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/conditionalstatement/Exercise20n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/method/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/method/Exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/method/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/method/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/method/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/method/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/method/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise19neterminat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise35N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise5N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise6N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/string/Exercise9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/META-INF/w3resource.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/Exercise148neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/Exercise149neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/Exercise150neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise14Improve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/i/Exercise9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/ii/Exercise17Neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/ii/Exercise18Neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/ii/Exercise19Neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/ii/Exercise20Neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/ii/Exercise21neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/ii/Exercise22Neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/ii/Exercise23Neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iii/Exercise31neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iii/Exercise32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iii/Exercise33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iii/Exercise34areaofhexagon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iii/Exercise35areaofpolygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iii/Exercise36neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iii/Exercise37reversestringneterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iii/Exercise38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iii/Exercise39neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise40neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise45netereminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise47neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise49.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/iv/Exercise50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise59.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/v/Exercise60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/Exercise61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/Exercise62neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/Exercise63neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/Exercise65neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/Exercise66neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/Exercise67neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/Exercise68neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/Exercise69.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/Exercise70.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vi/exercise64neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise71.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise72cerintaneclara.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise73cerintaneclara.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise75.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise76neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise77.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise78.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise79neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/vii/Exercise80neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viii/Exercise81.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viii/Exercise82neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viii/Exercise83.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viii/Exercise84.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viii/Exercise85.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viii/Exercise86.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viii/Exercise87neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viii/Exercise88neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viii/Exercise89neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viiii/Exercise90neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viiii/Exercise91neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viiii/Exercise92.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/viiii/Exercise93neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicparti/x/Exercise108Bianca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/w3resource/basicparti/x/Exercise108Bianca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w3resource/basicpartii/Exercise162neterminat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variousexercises/SwitchIncrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variousexercises/SwitchIncrement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/Exercise148neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise148neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/Exercise149neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise149neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/Exercise150neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise150neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise14Improve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise14Flag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/i/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/ii/Exercise17Neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/ii/Exercise18Neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise18Neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/ii/Exercise19Neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise19Neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/ii/Exercise20Neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/ii/Exercise21neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/ii/Exercise22Neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise22Neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/ii/Exercise23Neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iii/Exercise31neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iii/Exercise32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iii/Exercise33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iii/Exercise34areaofhexagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise34areaofhexagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iii/Exercise35areaofpolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise35areaofpolygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iii/Exercise36neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iii/Exercise37reversestringneterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iii/Exercise38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iii/Exercise39neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise40neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise40neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise45netereminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise45netereminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise47neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise47neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/iv/Exercise50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise54.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise57.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/v/Exercise60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise60.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/Exercise61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/Exercise62neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/Exercise63neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise63neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/Exercise65neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise65neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/Exercise66neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise66neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/Exercise67neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/Exercise67neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/Exercise68neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/Exercise69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/Exercise70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vi/exercise64neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/nefacute/exercise64neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise72cerintaneclara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise72.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise73cerintaneclara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise73.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise76neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise76and.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise77.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise78.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise79neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/vii/Exercise80neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viii/Exercise81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise81.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viii/Exercise82neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viii/Exercise83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viii/Exercise84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise84.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viii/Exercise85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise85.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viii/Exercise86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viii/Exercise87neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viii/Exercise88neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viii/Exercise89neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viiii/Exercise90neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viiii/Exercise91neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viiii/Exercise92.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/done/Exercise92.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/viiii/Exercise93neterminat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/x/Exercise107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/x/Exercise108Bianca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/x/Exercise108Florin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise108Florin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicparti/x/Exercise142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicparti/x/Exercise142.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise151neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise151neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise153.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise153.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise154neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise154neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise159neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise159neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise162.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise164.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise165neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise165neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise167neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise167neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise168.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise168.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicpartii/Exercise250neterminat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/basicpartii/Exercise250neterminat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/collection/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/collection/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/collection/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/collection/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/collection/Exercise5.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,37 +316,31 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="basicpartii" />
-      <recent name="collection" />
-      <recent name="viiii" />
-      <recent name="viii" />
-      <recent name="vii" />
+      <recent name="method" />
+      <recent name="conditionalstatement" />
+      <recent name="basicparti.done" />
+      <recent name="string" />
+      <recent name="basicparti.vii" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Exercise162neterminat">
-    <configuration name="Exercise108Bianca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicparti.x.Exercise108Bianca" />
+  <component name="RunManager" selected="Application.PigLatin">
+    <configuration name="HelloWorldJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variousexercises.HelloWorldJFrame" />
       <module name="w3resource" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicparti.x.*" />
+          <option name="PATTERN" value="variousexercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise108Florin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicparti.x.Exercise108Florin" />
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewproblems.MultiplicationTable" />
       <module name="w3resource" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicparti.x.*" />
+          <option name="PATTERN" value="interviewproblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +361,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise154neterminat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicpartii.Exercise154neterminat" />
+    <configuration name="PigLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sololearn.PigLatin" />
       <module name="w3resource" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicpartii.*" />
+          <option name="PATTERN" value="sololearn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,42 +374,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicpartii.Exercise162" />
+    <configuration name="SwitchIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variousexercises.SwitchIncrement" />
       <module name="w3resource" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicpartii.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise167neterminat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicpartii.Exercise167neterminat" />
+    <configuration name="SwitchIncrement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variousexercises.SwitchIncrement2" />
       <module name="w3resource" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicpartii.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise162neterminat" />
-        <item itemvalue="Application.Exercise154neterminat" />
-        <item itemvalue="Application.Exercise167neterminat" />
-        <item itemvalue="Application.Exercise108Bianca" />
-        <item itemvalue="Application.Exercise108Florin" />
+        <item itemvalue="Application.PigLatin" />
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.HelloWorldJFrame" />
+        <item itemvalue="Application.SwitchIncrement2" />
+        <item itemvalue="Application.SwitchIncrement" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -161,13 +417,39 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="175" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603101444370">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="408" y="175" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.806@0.23.1440.806" timestamp="1603101444370" />
+    <state x="408" y="175" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.808@0.23.1440.808" timestamp="1603099634792" />
+    <state width="1370" height="195" key="GridCell.Tab.0.bottom" timestamp="1603952388357">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="933" height="195" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1603215834945" />
+    <state width="1370" height="195" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603952388357" />
+    <state width="1370" height="195" key="GridCell.Tab.0.center" timestamp="1603952388355">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="933" height="195" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1603215834943" />
+    <state width="1370" height="195" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603952388355" />
+    <state width="1370" height="195" key="GridCell.Tab.0.left" timestamp="1603952388355">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="933" height="195" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1603215834942" />
+    <state width="1370" height="195" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603952388355" />
+    <state width="1370" height="195" key="GridCell.Tab.0.right" timestamp="1603952388356">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="933" height="195" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1603215834944" />
+    <state width="1370" height="195" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603952388356" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/w3resource$Exercise162neterminat.ic" NAME="Exercise162neterminat Coverage Results" MODIFIED="1588869484982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
