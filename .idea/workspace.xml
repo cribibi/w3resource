@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a275c365-5fc2-49e4-985b-7ce781fc4aaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/EvenWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/Fibonnaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/Remove0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/SecondBiggest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/SecondBiggestDistinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/StartWithA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/StringInversed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewproblems/Sum100.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,29 +44,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="sololearn" />
       <recent name="interviewproblems" />
+      <recent name="sololearn" />
       <recent name="method" />
       <recent name="conditionalstatement" />
       <recent name="basicparti.done" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PigLatin">
-    <configuration name="HelloWorldJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variousexercises.HelloWorldJFrame" />
-      <module name="w3resource" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variousexercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewproblems.MultiplicationTable" />
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="EvenWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewproblems.EvenWords" />
       <module name="w3resource" />
       <extension name="coverage">
         <pattern>
@@ -69,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PigLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sololearn.PigLatin" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewproblems.Factorial" />
       <module name="w3resource" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sololearn.*" />
+          <option name="PATTERN" value="interviewproblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,27 +78,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variousexercises.SwitchIncrement" />
+    <configuration name="Fibonnaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewproblems.Fibonnaci" />
       <module name="w3resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchIncrement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variousexercises.SwitchIncrement2" />
+    <configuration name="StartWithA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewproblems.StartWithA" />
       <module name="w3resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewproblems.Sum100" />
+      <module name="w3resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interviewproblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PigLatin" />
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.HelloWorldJFrame" />
-        <item itemvalue="Application.SwitchIncrement2" />
-        <item itemvalue="Application.SwitchIncrement" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Fibonnaci" />
+        <item itemvalue="Application.EvenWords" />
+        <item itemvalue="Application.StartWithA" />
+        <item itemvalue="Application.Sum100" />
       </list>
     </recent_temporary>
   </component>
@@ -138,26 +159,30 @@
     </state>
     <state x="408" y="175" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.806@0.23.1440.806" timestamp="1603101444370" />
     <state x="408" y="175" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.808@0.23.1440.808" timestamp="1603099634792" />
-    <state width="1370" height="194" key="GridCell.Tab.0.bottom" timestamp="1603952550643">
+    <state x="124" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603976017549">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="124" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603976017549" />
+    <state width="1370" height="193" key="GridCell.Tab.0.bottom" timestamp="1603976716477">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="933" height="195" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1603215834945" />
-    <state width="1370" height="194" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603952550643" />
-    <state width="1370" height="194" key="GridCell.Tab.0.center" timestamp="1603952550641">
+    <state width="1370" height="193" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603976716477" />
+    <state width="1370" height="193" key="GridCell.Tab.0.center" timestamp="1603976716476">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="933" height="195" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1603215834943" />
-    <state width="1370" height="194" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603952550641" />
-    <state width="1370" height="194" key="GridCell.Tab.0.left" timestamp="1603952550640">
+    <state width="1370" height="193" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603976716476" />
+    <state width="1370" height="193" key="GridCell.Tab.0.left" timestamp="1603976716475">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="933" height="195" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1603215834942" />
-    <state width="1370" height="194" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603952550640" />
-    <state width="1370" height="194" key="GridCell.Tab.0.right" timestamp="1603952550642">
+    <state width="1370" height="193" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603976716475" />
+    <state width="1370" height="193" key="GridCell.Tab.0.right" timestamp="1603976716476">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="933" height="195" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1603215834944" />
-    <state width="1370" height="194" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603952550642" />
+    <state width="1370" height="193" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603976716476" />
     <state x="399" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1603953275218">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
